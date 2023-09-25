@@ -27,7 +27,7 @@ buat telebih dahulu sub judul untuk gambar yang akan disisipkan dengan attribut 
 
 `<img src="namafilegambar widht="ukurangambaryangdinginkan" title="judulgamabaryangakandisisipkan">`
 
-![Gambar 1](image/output3.png)
+![Gambar 3](image/output3.png)
 
 ### Memformat Teks
 Attribut tag format ada beberapa attribut yang dapat digunakan pada format teks
@@ -35,7 +35,7 @@ Attribut tag format ada beberapa attribut yang dapat digunakan pada format teks
 
 ##### Hasil tampilan menggunakan attribut format teks
 
-![Gambar 2](image/output4.png)
+![Gambar 4](image/output4.png)
 
 ### Menambahkan Hyperlink
 Untuk menambahkan hyperlink pada halaman HTML menggunakan attribut tag `<nav>` pertama kita buat terlebih dahulu file html baru yang ingin di direct di folder yang sama dengan pada halaman html pertama
@@ -50,7 +50,10 @@ Untuk menambahkan hyperlink pada halaman HTML menggunakan attribut tag `<nav>` p
 `</nav>`
 
 #### Hasil Tampilan attribut tag Hyperlink
-![Gambar 1](image/output5.png)
+![Gambar 5](image/output5.png)
+
+#### Hasil direct ke link yang dibuat
+![Gambar 6](image/output6.png)
 
 #### Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag ?
